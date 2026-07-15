@@ -107,8 +107,8 @@ Ok.
 
 # ✅ Completion Checklist
 
-- [ ] I explored every concept listed above.
-- [ ] I wrote all reflection answers in my own words.
-- [ ] I avoided copying answers directly from AI or the internet.
-- [ ] I committed my work to Git.
-- [ ] I pushed my latest changes to GitHub.
+- [✅ ] I explored every concept listed above.
+- [✅ ] I wrote all reflection answers in my own words.
+- [✅ ] I avoided copying answers directly from AI or the internet.
+- [ ✅] I committed my work to Git.
+- [✅ ] I pushed my latest changes to GitHub.
